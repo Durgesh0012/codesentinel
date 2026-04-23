@@ -355,4 +355,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ❤️ using the Anthropic Claude API*
